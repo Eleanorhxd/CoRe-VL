@@ -35,5 +35,4 @@ Run `bash scripts/1-1.shallow_run_iuxray.sh` to train a model on the IU X-Ray da
 
 Run `bash bash scripts/4-1.shallow_run.sh` to train a model on the MIMIC-CXR dataset.
 
-## Acknowledgement
-We sincerely thank - [R2GenGPT](https://github.com/wang-zhanyu/R2GenGPT).
+
